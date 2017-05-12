@@ -1,0 +1,21 @@
+build/
+gradle/
+.gradle/
+.idea/
+build.gradle
+gradle.properties
+gradlew
+local.properties
+settings.gradle
+AC26_UsoDeVistas.iml
+gradlew.bat
+/AC2.6.Uso de Vistas.png
+
+/app/build/
+/app/libs/
+/app/src/androidTest/
+/app/src/test/
+/app/.gitignore
+/app/proguard-rules.pro
+/app/build.gradle
+/app/app.iml
